@@ -1,0 +1,75 @@
+moving.png
+size: 910, 999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack
+  rotate: false
+  xy: 421, 1
+  size: 412, 358
+  orig: 426, 358
+  offset: 14, 0
+  index: 1
+attack
+  rotate: false
+  xy: 1, 361
+  size: 353, 356
+  orig: 380, 385
+  offset: 10, 16
+  index: 2
+attack2
+  rotate: false
+  xy: 356, 361
+  size: 300, 335
+  orig: 380, 385
+  offset: 32, 20
+  index: 1
+attack2
+  rotate: false
+  xy: 1, 1
+  size: 418, 358
+  orig: 426, 358
+  offset: 8, 0
+  index: 2
+Dead
+  rotate: true
+  xy: 420, 698
+  size: 300, 317
+  orig: 324, 379
+  offset: 21, 15
+  index: -1
+dead2
+  rotate: false
+  xy: 658, 361
+  size: 251, 320
+  orig: 251, 364
+  offset: 0, 14
+  index: -1
+sitting1
+  rotate: false
+  xy: 739, 683
+  size: 151, 250
+  orig: 180, 275
+  offset: 14, 12
+  index: 1
+sitting1
+  rotate: false
+  xy: 267, 719
+  size: 151, 255
+  orig: 176, 277
+  offset: 8, 13
+  index: 2
+walking
+  rotate: false
+  xy: 1, 719
+  size: 133, 267
+  orig: 159, 285
+  offset: 7, 9
+  index: 1
+walking
+  rotate: false
+  xy: 136, 719
+  size: 129, 265
+  orig: 162, 286
+  offset: 11, 13
+  index: 2
